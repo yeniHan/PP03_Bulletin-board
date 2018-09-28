@@ -51,7 +51,7 @@ If the conditions was not met, an alert message'll report about the error.
 <h3>4. File attatchment</h3>
 <br/>
 <div align="center">
-    <img src="photos/write-article-file-attatchment.png" height="320px" width="410px"/> 
+    <img src="photos/write-article-file-attatchment.png" width="700px"/> 
 </div>
 <br/>
 <h4>Conditions</h4><
@@ -67,7 +67,7 @@ If a user enters the correct password for the article, the content of the articl
 <h3>2. Reply articles</h3>
 <br/>
 <div align="center">
-    <img src="photos/private-child-article.png" width="800px"/> 
+    <img src="photos/private-child-article.png" width="650px"/> 
 </div><br/>
 A article can have multiple reply articles. <br/>
 <br/>
