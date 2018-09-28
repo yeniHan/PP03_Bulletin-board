@@ -1,7 +1,7 @@
 # PP03_Bulletin-board
-<h5>This is a bulletin board.<br/>
+<h4>This is a bulletin board.<br/>
 I made this as a part of the group project, "Weventory".  
-</h5>
+</h4>
 
 <div align="center">
     <img src="photos/bulletin-board.png" width="800px"/> 
