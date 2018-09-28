@@ -210,7 +210,8 @@ tr .title{
 }
 
 body{
-            background-color: #E7E5E2;
+        background-color: #E7E5E2;
+
         }
         .field:nth-child(2){
             display: block;

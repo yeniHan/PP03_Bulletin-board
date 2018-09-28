@@ -115,10 +115,10 @@
                     echo "<span class='pgNums' id='p_{$i}'>[{$i}]</span>";
                 }
             }
-
+            echo "<button id='write_button'>Ask for Help</button>";
 
         ?></div>
-        <button id="write_button">Ask for Help</button>
+        
     </div>
 
 
