@@ -28,7 +28,7 @@ The 'hits' column shows how many times users have clicked the article.
 <br/><br/>
 <h3>4. Ask for help</h3>
 The button leads to the page where users can send their articles. 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 <h2>Part B. Wrtie article</h2>
 <h3>1. Sticky mode</h3>
 If the user is an admin member, an additional option, sticky mode'll be added.<br/><br/>
