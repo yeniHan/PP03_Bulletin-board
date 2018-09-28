@@ -261,7 +261,7 @@ body{
             font-weight: bold;
             position: absolute;
             top: 724px;
-            left: 400px;
+            left: 179px;
         }
         #bulletin_board_container #pageNumbers{
             text-align: center;
@@ -299,7 +299,7 @@ body{
             font-weight: bold;
             position: absolute;
             top: 977px;
-            left: 416px;
+            left: 192px;
         }
         #new_article #write_article_submit_button{
             cursor:pointer;
@@ -445,7 +445,7 @@ body{
         width: 162px;
         font-weight: bold;
         position: absolute;
-        right: 326px;
+        right: 97px;
     } 
     .hideContent{
         color: #e7e5e2;
@@ -478,7 +478,7 @@ body{
         font-weight: bold;
         position: absolute;
         top: 998px;
-        right: 509px;
+        right: 307px;
     }
     .container div{
         padding: 3px;
