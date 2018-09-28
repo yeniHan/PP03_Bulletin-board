@@ -39,7 +39,7 @@ By setting the password, the access to the article can be resticted.
 <h3>3. Tags</h3>
 <br/>
 <div align="center">
-    <img src="photos/write-article-tags.png" width="700px"/> 
+    <img src="photos/write-article-tags.png" width="650px"/> 
 </div>
 <br/>
 <h4>Conditions</h4>
@@ -51,7 +51,7 @@ If the conditions was not met, an alert message'll report about the error.
 <h3>4. File attatchment</h3>
 <br/>
 <div align="center">
-    <img src="photos/write-article-file-attatchment.png" width="700px"/> 
+    <img src="photos/write-article-file-attatchment.png" width="650px"/> 
 </div>
 <br/>
 <h4>Conditions</h4><
