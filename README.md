@@ -9,10 +9,10 @@ I made this as a part of the group project, "Weventory".
 </div>
 <br/>
 <br/>
-<h4><i>The page is divided 3 parts according to their roles.</i><br/><br/>
+<h3><i>The page is divided 3 parts according to their roles.</i><br/><br/>
 -bulletin board<br/>
 -Write article<br/>
--Read article<br/>
+-Read article<br/></h3>
 <br/><br/><br/>
 <h2>Part A. Bulletin board</h2>
 </h4>
