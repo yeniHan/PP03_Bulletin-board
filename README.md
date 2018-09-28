@@ -9,7 +9,7 @@ I made this as a part of the group project, "Weventory".
 </div>
 <br/>
 <br/>
-<h2>Functionalities</h2>
+<h2>A. Bulletin board</h2>
 <h4><i>The page is divided 3 parts according to their roles.</i><br/><br/>
 -bulletin board<br/>
 -Write article<br/>
@@ -29,7 +29,22 @@ The 'hits' column shows how many times users have clicked the article.
 <h3>4. Ask for help</h3>
 The button leads to the page where users can send their articles. 
 <br/><br/>
-
+<h2>B. Wrtie article</h2>
+<h3>1. Sticky mode</h3>
+If the user is an admin member, an additional option, sticky mode'll be added.
+<h3>2. Password</h3>
+If a user wants to make the article private, <br/>
+By setting the password, the access to the article can be resticted.
+<h3>3. Tags</h3>
+<div align="center">
+    <img src="photos/write-article-tags.png" height="320px" width="410px"/> 
+</div>
+<br/>
+Conditions: 
+- Max. 10 tags<br/>
+- The same tag can't be added.<br/>
+<br/>
+If the conditions was not met, an alert message'll show up and report about the error. 
 <div align="center">
     <img src="photos/parent-article1.png" width="800px"/> 
 </div>
