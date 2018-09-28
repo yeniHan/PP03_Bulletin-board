@@ -9,7 +9,7 @@ I made this as a part of the group project, "Weventory".
 </div>
 <br/>
 <br/>
-<h3><i>The page is divided 3 parts according to their roles.<br/><br/>
+<h3><i>The page is divided into 3 parts according to their roles.<br/><br/>
 A. Bulletin board<br/>
 B. Write article<br/>
 C. Read article<br/></h3></i>
