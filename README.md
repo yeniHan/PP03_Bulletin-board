@@ -10,10 +10,11 @@ I made this as a part of the group project, "Weventory".
 <br/>
 <br/>
 <h2>Functionalities</h2>
-<h4>The page is divided 3 parts according to their roles.<br/><br/>
+<h4><i>The page is divided 3 parts according to their roles.</i><br/><br/>
 -bulletin board<br/>
 -Write article<br/>
 -Read article<br/>
+<br/><br/><br/>
 </h4>
 <h3>1. Sticky articles</h3>
 Admins can write sicky articles which are arranged on the top of the bulletin board.<br/>
