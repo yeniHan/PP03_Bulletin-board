@@ -65,11 +65,12 @@ If the conditions was not met, an alert message'll report about the error.
 If a user enters the correct password for the article, the content of the article'll be shown. 
 <br/><br/>
 <h3>2. Reply articles</h3>
+<br/>
 <div align="center">
     <img src="photos/private-child-article.png" width="800px"/> 
 </div><br/>
-A article can have multiple reply articles. 
-*<b>Private child article</b>
+A article can have multiple reply articles. <br/>
+<b>* Private child article</b><br/>
 If an user set a password for the reply article, a child article also can be a private article.
 <br/><br/>
 
