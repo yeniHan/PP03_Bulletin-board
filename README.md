@@ -13,11 +13,11 @@ I made this as a part of the group project, "Weventory".
 
 
 <div align="center">
-    <img src="photos/parent-article1.png" height="320px" width="390px"/> 
+    <img src="photos/parent-article1.png" height="320px" width="410px"/> 
 </div>
 
 <div align="center">
-    <img src="photos/child-article.png" height="320px" width="390px"/> 
-    <img src="photos/write-article-tags.png" height="320px" width="390px"/> 
-    <img src="photos/write-article-file-attatchment.png" height="320px" width="390px"/> 
+    <img src="photos/child-article.png" height="320px" width="410px"/> 
+    <img src="photos/write-article-tags.png" height="320px" width="410px"/> 
+    <img src="photos/write-article-file-attatchment.png" height="320px" width="410px"/> 
 </div>	
