@@ -22,7 +22,7 @@ Admins can write sicky articles which are arranged on the top of the bulletin bo
 Sticky articles are distinguished with "Red".
 <br/><br/>
 
-<h3>2. Showing the number of reply articles(child ariticles)</h3>
+<h3>2. Showing the number of reply articles</h3>
 Next to the title, how many reply articles each article has is marked.
 <br/><br/>
 
