@@ -42,7 +42,7 @@ By setting the password, the access to the article can be resticted.
     <img src="photos/write-article-tags.png" width="700px"/> 
 </div>
 <br/>
-<b>Conditions</b><br/>
+<h4>Conditions</h4>
 - Max. 10 tags<br/>
 - The same tag can't be added.<br/>
 <br/>
@@ -54,7 +54,7 @@ If the conditions was not met, an alert message'll report about the error.
     <img src="photos/write-article-file-attatchment.png" height="320px" width="410px"/> 
 </div>
 <br/>
-<b>Conditions</b><br/>
+<h4>Conditions</h4><
 - Max. 3 files<br/>
 - The same file can't be added.<br/>
 <br/>
@@ -70,7 +70,8 @@ If a user enters the correct password for the article, the content of the articl
     <img src="photos/private-child-article.png" width="800px"/> 
 </div><br/>
 A article can have multiple reply articles. <br/>
-<b>* Private child article</b><br/>
+<br/>
+<h4>Private child article</h4>
 If an user set a password for the reply article, a child article also can be a private article.
 <br/><br/>
 
