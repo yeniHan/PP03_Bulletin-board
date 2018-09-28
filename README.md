@@ -41,11 +41,23 @@ By setting the password, the access to the article can be resticted.
     <img src="photos/write-article-tags.png" width="700px"/> 
 </div>
 <br/>
-Conditions: 
+<b>Conditions</b><br/>
 - Max. 10 tags<br/>
 - The same tag can't be added.<br/>
 <br/>
-If the conditions was not met, an alert message'll show up and report about the error. 
+If the conditions was not met, an alert message'll report about the error. 
+<br/><br/>
+<h3>3. File attatchment</h3>
+<div align="center">
+    <img src="photos/write-article-file-attatchment.png" height="320px" width="410px"/> 
+</div>
+<br/>
+<b>Conditions</b><br/>
+- Max. 3 files<br/>
+- The same file can't be added.<br/>
+<br/>
+If the conditions was not met, an alert message'll report about the error. 
+<br/><br/>
 <div align="center">
     <img src="photos/parent-article1.png" width="800px"/> 
 </div>
@@ -53,5 +65,4 @@ If the conditions was not met, an alert message'll show up and report about the 
 <div align="center">
     <img src="photos/child-article.png" height="320px" width="410px"/> 
     <img src="photos/write-article-tags.png" height="320px" width="410px"/> 
-    <img src="photos/write-article-file-attatchment.png" height="320px" width="410px"/> 
 </div>	
