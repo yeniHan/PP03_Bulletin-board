@@ -261,23 +261,13 @@ body{
             font-weight: bold;
             position: absolute;
             top: 724px;
-            left: 240px;
+            left: 400px;
         }
         #bulletin_board_container #pageNumbers{
             text-align: center;
             margin: 40px 0;
         }
-        #bulletin_board_container #write_button{
-            cursor:pointer;
-            font-size: 20px;
-            color: #2196F3;
-            background-color: #ffffff;
-            height: 51px;
-            width: 162px;
-            font-weight: bold;
-            position: absolute;
-            right: 176px;
-        } 
+
         .hideContent{
             color: #e7e5e2;
         }
@@ -309,7 +299,7 @@ body{
             font-weight: bold;
             position: absolute;
             top: 977px;
-            left: 255px;
+            left: 416px;
         }
         #new_article #write_article_submit_button{
             cursor:pointer;
@@ -455,7 +445,7 @@ body{
         width: 162px;
         font-weight: bold;
         position: absolute;
-        right: 176px;
+        right: 326px;
     } 
     .hideContent{
         color: #e7e5e2;
@@ -487,8 +477,8 @@ body{
         margin-left: 683px;
         font-weight: bold;
         position: absolute;
-        top: 997px;
-        right: 371px;
+        top: 998px;
+        right: 509px;
     }
     .container div{
         padding: 3px;
