@@ -2,15 +2,17 @@
 <h4>This is a bulletin board.<br/>
 I made this as a part of the group project, "Weventory".  
 </h4>
-
+<br/>
 <div align="center">
     <img src="photos/bulletin-board.png" width="800px"/> 
 </div>
+<br/>
+<h3>Functionalities</h4>
+
+
 <div align="center">
     <img src="photos/parent-article1.png" height="320px" width="400px"/> 
 </div>
-
-
 
 <div align="center">
     <img src="photos/child-article.png" height="330px" width="400px"/> 
