@@ -90,6 +90,6 @@ If an user set the password for a reply article, the reply article also can be a
 
 P.S. Since I made this as a practice, it has many incomplete parts. <br/>
 For example, not using hash codes when sending passwords, inefficient ways to create HTML elements. <br/>
-I am planning to improve these parts soon.
+I am planning to improve those parts soon.
 
 
