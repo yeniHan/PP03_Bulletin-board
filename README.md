@@ -89,7 +89,7 @@ If an user set a password for the reply article, a child article also can be a p
 <br/><br/><br/><br/><br/>
 
 P.S. Since I made this as a practice, it has many imperfect parts. <br/>
-For example, not using hash codes for password, inefficient ways to create HTML elements. <br/>
+For example, not using hash codes when sending passwords, inefficient ways to create HTML elements. <br/>
 I am planning to improve these parts soon.
 
 
