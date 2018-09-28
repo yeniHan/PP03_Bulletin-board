@@ -48,7 +48,7 @@ By setting the password, the access to the article can be resticted.
 <br/>
 If the conditions was not met, an alert message'll report about the error. 
 <br/><br/>
-<h3>3. File attatchment</h3>
+<h3>4. File attatchment</h3>
 <br/>
 <div align="center">
     <img src="photos/write-article-file-attatchment.png" height="320px" width="410px"/> 
@@ -59,7 +59,16 @@ If the conditions was not met, an alert message'll report about the error.
 - The same file can't be added.<br/>
 <br/>
 If the conditions was not met, an alert message'll report about the error. 
-<br/><br/><br/>
+<br/><br/><br/><br/><br/>
+<h2>Part C. Read article</h2>
+<h3>1. Private article</h3>
+If a user enters the correct password for the article, the content of the article'll be shown. 
+<br/><br/>
+<h3>2. Reply articles</h3>
+A article can have multiple reply articles. 
+*<b>Private child article</b>
+If an user set a password for the reply article, a child article also can be a private article.
+<br/><br/>
 
 
 <div align="center">
