@@ -1,6 +1,6 @@
 # PP03_Bulletin-board
 <h4>This is a bulletin board.<br/>
-I made this as a part of the group project, "Weventory".  
+I made this as a part of the group project, "Weventory"(https://github.com/wcodingforever/weventory).
 </h4>
 <br/>
 <br/>
