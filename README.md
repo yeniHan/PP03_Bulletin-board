@@ -10,9 +10,9 @@ I made this as a part of the group project, "Weventory".
 <br/>
 <br/>
 <h3><i>The page is divided 3 parts according to their roles.<br/><br/>
--Bulletin board<br/>
--Write article<br/>
--Read article<br/></h3></i>
+A. Bulletin board<br/>
+B. Write article<br/>
+C. Read article<br/></h3></i>
 <br/><br/><br/>
 
 <h2>Part A. Bulletin board</h2>
@@ -86,7 +86,10 @@ A article can have multiple reply articles. <br/>
 <br/>
 <h4>Private child article</h4>
 If an user set a password for the reply article, a child article also can be a private article.
-<br/><br/>
+<br/><br/><br/><br/><br/>
 
+P.S. Since I made this as a practice, it has many imperfect parts. <br/>
+For example, not using hash codes for password, inefficient ways to create HTML elements. <br/>
+I am planning to improve these parts soon.
 
 
