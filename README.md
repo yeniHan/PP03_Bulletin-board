@@ -37,7 +37,7 @@ If a user wants to make the article private, <br/>
 By setting the password, the access to the article can be resticted.
 <h3>3. Tags</h3>
 <div align="center">
-    <img src="photos/write-article-tags.png" height="320px" width="410px"/> 
+    <img src="photos/write-article-tags.png" width="800px"/> 
 </div>
 <br/>
 Conditions: 
