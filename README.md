@@ -85,7 +85,7 @@ If a user enters the correct password for the article, the content of the articl
 A article can have multiple reply articles. <br/>
 <br/>
 <h4>Private reply article</h4>
-If an user set a password for the reply article, a child article also can be a private article.
+If an user set the password for a reply article, the reply article also can be a private article.
 <br/><br/><br/><br/><br/>
 
 P.S. Since I made this as a practice, it has many incomplete parts. <br/>
