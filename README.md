@@ -3,11 +3,13 @@
 I made this as a part of the group project, "Weventory".  
 </h4>
 <br/>
+<br/>
 <div align="center">
     <img src="photos/bulletin-board.png" width="800px"/> 
 </div>
 <br/>
-<h3>Functionalities</h4>
+<br/>
+<h2>Functionalities</h2>
 
 
 <div align="center">
