@@ -55,7 +55,7 @@ By setting the password, the access to the article can be resticted.
 - Max. 10 tags<br/>
 - The same tag can't be added.<br/>
 <br/>
-If the conditions was not met, an alert message'll report about the error. 
+If any of the conditions was not met, an alert message'll report about the error. 
 <br/><br/>
 
 <h3>4. File attatchment</h3>
@@ -69,7 +69,7 @@ If the conditions was not met, an alert message'll report about the error.
 - Max. 3 files<br/>
 - The same file can't be added.<br/>
 <br/>
-If the conditions was not met, an alert message'll report about the error. 
+If any of the conditions was not met, an alert message'll report about the error. 
 <br/><br/><br/><br/><br/>
 
 
