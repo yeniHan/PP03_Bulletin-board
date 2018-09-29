@@ -19,7 +19,7 @@ C. Read article<br/></h3></i>
 
 <h3>1. Sticky articles</h3>
 Admins can write sicky articles which are arranged on the top of the bulletin board.<br/>
-Sticky articles are distinguished with "Red".
+Sticky articles are distinguished with "pink" background color.
 <br/><br/>
 
 <h3>2. Showing the number of reply articles</h3>
