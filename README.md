@@ -37,14 +37,19 @@ The button leads to the page where users can send their articles.
 
 <h2>Part B. Wrtie article</h2>
 <h3>1. Sticky mode</h3>
-If the user is an admin member, an additional option, sticky mode'll be added.<br/><br/>
+If the user is an admin member, an additional option, sticky mode'll be added.
+<br/><br/>
+<h3>2. Automatically creating the title for a reply article</h3>
+If a user tries to write a reply article, the title for the reply article'll be created automatically<br/>
+in this form, "Re: (The article title to reply)".
+<br/><br/>
 
-<h3>2. Password</h3>
+<h3>3. Password</h3>
 If a user wants to make the article private, <br/>
 By setting the password, the access to the article can be resticted.
 <br/><br/>
 
-<h3>3. Tags</h3>
+<h3>4. Tags</h3>
 <br/>
 <div align="center">
     <img src="photos/write-article-tags.png" width="650px"/> 
@@ -58,7 +63,7 @@ By setting the password, the access to the article can be resticted.
 If any of the conditions was not met, an alert message'll report about the error. 
 <br/><br/>
 
-<h3>4. File attatchment</h3>
+<h3>5. File attatchment</h3>
 <br/>
 <div align="center">
     <img src="photos/write-article-file-attatchment.png" width="650px"/> 
