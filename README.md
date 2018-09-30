@@ -1,5 +1,5 @@
 # PP03_Bulletin-board
-<h4>게시<br/>
+<h4>게시판<br/>
 본 게시판은 그룹 프로젝트 "Weventory"(https://github.com/wcodingforever/weventory)에 참여할 당시,<br/>
 도움이 필요한 User들과 소통을 위한 "Help" 페이지로 만들어졌습니다. 
 </h4>
