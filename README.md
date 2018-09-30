@@ -31,7 +31,7 @@ The 'hits' column shows how many times users have clicked the article.
 <br/><br/>
 
 <h3>4. Ask for help</h3>
-The button leads to the page where users can send their articles. 
+The button leads to "Write article" part where users can send their articles. 
 <br/><br/><br/><br/><br/>
 
 
