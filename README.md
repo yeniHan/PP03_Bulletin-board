@@ -98,9 +98,7 @@ Sticky articles은 분홍색 바탕색으로 일반 글들과 구분되어 보�
 <br/><br/><br/><br/><br/>
 
 P.S. 본 게시판은 연습을 목적으로 만든 작품이 보니, 여러가지 부족한 점이 많습니다.<br/>
-private 데이터를 전송또는 받을 시 hash code를 사용지 않아 보안상으로 흠이 있고,<br/>
-JS로 HTML을 생성할때, 연습을 위해 여러 methods를 써봤는데, 효율적인 방법은 아니었습니다.<br/>
-하지만 이런 문제점들을 개선할 예정입니다. 
+이런 문제점들을 곧 개선할 예정입니다. 
 <br/><br/><br/>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -201,7 +199,6 @@ If an user set the password for a reply article, the reply article also can be a
 <br/><br/><br/><br/><br/>
 
 P.S. Since I made this as a practice, it has many incomplete parts. <br/>
-For example, not using hash codes when sending passwords, inefficient ways to create HTML elements etc.<br/>
 I am planning to improve those parts soon.
 
 
