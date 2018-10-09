@@ -84,7 +84,7 @@ Sticky articles은 분홍색 바탕색으로 일반 글들과 구분되어 보�
 
 <h2>Part C. Read article</h2>
 <h3>1. Private article</h3>
-Private artilce들의 내용은, 유저가 정확한 패스워드를 입력했을 시에만 보여지게 됩니다.
+Private article들의 내용은, 유저가 정확한 패스워드를 입력했을 시에만 보여지게 됩니다.
 <br/><br/>
 <h3>2. Reply articles</h3>
 <br/>
