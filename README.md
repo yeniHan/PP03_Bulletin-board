@@ -50,7 +50,7 @@ Sticky articles은 분홍색 바탕색으로 일반 글들과 구분되어 보�
 
 <h3>3. 비밀번호 설정</h3>
 모든 글들은 해당 글에 설정된 비밀번호를 입력하지 않으면 볼 수 없는 접근이 제한된 private articles과<br/>
-그렇지 않고 모두에게 공개되는 public articles들로 분류될 수 있습니다. 
+그렇지 않고 모두에게 공개되는 public article들로 분류될 수 있습니다. 
 <br/><br/>
 
 <h3>4. Tags</h3>
